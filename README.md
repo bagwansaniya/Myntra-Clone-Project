@@ -10,4 +10,6 @@ Optimized for responsiveness
 Redux for state management
 
 ![Screenshot (106)](https://github.com/user-attachments/assets/be95c39d-9e26-4c93-979a-e5f44110f019)
+![Screenshot (107)](https://github.com/user-attachments/assets/d26f99d0-9dcd-48b9-83bd-f920f89fee0a)
+
 
